@@ -1,0 +1,9 @@
+[package]
+name = "data-mesh"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+flate2 = "1.0.30"
+zstd = "0.13.1"
+xz2 = "0.1.7"
