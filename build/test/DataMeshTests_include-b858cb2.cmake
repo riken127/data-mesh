@@ -1,0 +1,5 @@
+if(EXISTS "/home/rik3n/Coding/data-mesh/build/test/DataMeshTests_tests-b858cb2.cmake")
+  include("/home/rik3n/Coding/data-mesh/build/test/DataMeshTests_tests-b858cb2.cmake")
+else()
+  add_test(DataMeshTests_NOT_BUILT-b858cb2 DataMeshTests_NOT_BUILT-b858cb2)
+endif()

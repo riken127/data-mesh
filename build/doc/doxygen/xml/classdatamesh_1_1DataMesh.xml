@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.8" xml:lang="en-US">
+  <compounddef id="classdatamesh_1_1DataMesh" kind="class" language="C++" prot="public">
+    <compoundname>datamesh::DataMesh</compoundname>
+    <includes refid="datamesh_8h" local="no">datamesh.h</includes>
+    <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classdatamesh_1_1DataMesh_1a8b189da426dc7f07035f72ba41c86b86" prot="private" static="no" mutable="no">
+        <type>std::string</type>
+        <definition>std::string datamesh::DataMesh::name</definition>
+        <argsstring></argsstring>
+        <name>name</name>
+        <qualifiedname>datamesh::DataMesh::name</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="datamesh/datamesh.h" line="14" column="21" bodyfile="datamesh/datamesh.h" bodystart="14" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classdatamesh_1_1DataMesh_1a94b6bd904cc02f7f667df0ab74df901f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>datamesh::DataMesh::DataMesh</definition>
+        <argsstring>(std::string name)</argsstring>
+        <name>DataMesh</name>
+        <qualifiedname>datamesh::DataMesh::DataMesh</qualifiedname>
+        <param>
+          <type>std::string</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+<para>Creates a new greeter. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>the name to greet </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="datamesh/datamesh.h" line="21" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="classdatamesh_1_1DataMesh_1a00d751d259645ab364f08cfe754d5c80" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>std::string</type>
+        <definition>std::string datamesh::DataMesh::greet</definition>
+        <argsstring>(LanguageCode lang=LanguageCode::EN) const</argsstring>
+        <name>greet</name>
+        <qualifiedname>datamesh::DataMesh::greet</qualifiedname>
+        <param>
+          <type><ref refid="namespacedatamesh_1af4863dd293cb8510f5c88115b1699560" kindref="member">LanguageCode</ref></type>
+          <declname>lang</declname>
+          <defval><ref refid="namespacedatamesh_1af4863dd293cb8510f5c88115b1699560aaa85f1840e282d8a8304dbc2c0d7c9b2" kindref="member">LanguageCode::EN</ref></defval>
+        </param>
+        <briefdescription>
+<para>Creates a localized string containing the greeting. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>lang</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>the language to greet in </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>a string containing the greeting </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="datamesh/datamesh.h" line="28" column="25"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+<para>A class for saying hello in multiple languages. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="datamesh/datamesh.h" line="13" column="5" bodyfile="datamesh/datamesh.h" bodystart="13" bodyend="29"/>
+    <listofallmembers>
+      <member refid="classdatamesh_1_1DataMesh_1a94b6bd904cc02f7f667df0ab74df901f" prot="public" virt="non-virtual"><scope>datamesh::DataMesh</scope><name>DataMesh</name></member>
+      <member refid="classdatamesh_1_1DataMesh_1a00d751d259645ab364f08cfe754d5c80" prot="public" virt="non-virtual"><scope>datamesh::DataMesh</scope><name>greet</name></member>
+      <member refid="classdatamesh_1_1DataMesh_1a8b189da426dc7f07035f72ba41c86b86" prot="private" virt="non-virtual"><scope>datamesh::DataMesh</scope><name>name</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

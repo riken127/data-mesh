@@ -1,0 +1,58 @@
+Start testing: Aug 03 18:43 WEST
+----------------------------------------------------------
+1/2 Testing: DataMesh
+1/2 Test: DataMesh
+Command: "/home/rik3n/Coding/data-mesh/build/test/DataMeshTests" "--test-case=DataMesh"
+Directory: /home/rik3n/Coding/data-mesh/build/test
+"DataMesh" start time: Aug 03 18:43 WEST
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.9"
+[doctest] run with "--help" for options
+===============================================================================
+/home/rik3n/Coding/data-mesh/test/source/greeter.cpp:7:
+TEST CASE:  DataMesh
+
+/home/rik3n/Coding/data-mesh/test/source/greeter.cpp:13: ERROR: CHECK( datamesh.greet(LanguageCode::DE) == "Hallo Tests!" ) is NOT correct!
+  values: CHECK( Hallo, Tests! == Hallo Tests! )
+
+/home/rik3n/Coding/data-mesh/test/source/greeter.cpp:14: ERROR: CHECK( datamesh.greet(LanguageCode::ES) == "¡Hola Tests!" ) is NOT correct!
+  values: CHECK( !Hola, Tests! == ¡Hola Tests! )
+
+/home/rik3n/Coding/data-mesh/test/source/greeter.cpp:15: ERROR: CHECK( datamesh.greet(LanguageCode::FR) == "Bonjour Tests!" ) is NOT correct!
+  values: CHECK( Bonjour, Tests! == Bonjour Tests! )
+
+===============================================================================
+[doctest] test cases: 1 | 0 passed | 1 failed | 1 skipped
+[doctest] assertions: 4 | 1 passed | 3 failed |
+[doctest] Status: FAILURE!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"DataMesh" end time: Aug 03 18:43 WEST
+"DataMesh" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: DataMesh version
+2/2 Test: DataMesh version
+Command: "/home/rik3n/Coding/data-mesh/build/test/DataMeshTests" "--test-case=DataMesh version"
+Directory: /home/rik3n/Coding/data-mesh/build/test
+"DataMesh version" start time: Aug 03 18:43 WEST
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.9"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 1 skipped
+[doctest] assertions: 1 | 1 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DataMesh version" end time: Aug 03 18:43 WEST
+"DataMesh version" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 03 18:43 WEST

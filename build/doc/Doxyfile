@@ -1,0 +1,31 @@
+# Configuration for Doxygen for use with CMake
+# Only options that deviate from the default are included
+# To create a new Doxyfile containing all available options, call `doxygen -g`
+
+# Get Project name and version from CMake
+PROJECT_NAME = DataMesh
+PROJECT_NUMBER = 1.0
+
+# Add sources
+INPUT = /home/rik3n/Coding/data-mesh/documentation/../README.md /home/rik3n/Coding/data-mesh/documentation/../include /home/rik3n/Coding/data-mesh/documentation/../documentation/pages
+EXTRACT_ALL = YES
+RECURSIVE = YES
+OUTPUT_DIRECTORY = /home/rik3n/Coding/data-mesh/build/doc/doxygen
+
+# Use the README as a main page
+USE_MDFILE_AS_MAINPAGE = /home/rik3n/Coding/data-mesh/documentation/../README.md
+
+# set relative include paths
+FULL_PATH_NAMES = YES
+STRIP_FROM_PATH = /home/rik3n/Coding/data-mesh/documentation/../include /home/rik3n/Coding/data-mesh/documentation/..
+
+# We use m.css to generate the html documentation, so we only need XML output
+GENERATE_XML = YES
+GENERATE_HTML = NO
+GENERATE_LATEX = NO
+XML_PROGRAMLISTING = NO
+CREATE_SUBDIRS = NO
+
+# Include all directories, files and namespaces in the documentation
+# Disable to include only explicitly documented objects
+M_SHOW_UNDOCUMENTED = YES

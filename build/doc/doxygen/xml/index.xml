@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.9.8" xml:lang="en-US">
+  <compound refid="classdatamesh_1_1DataMesh" kind="class"><name>datamesh::DataMesh</name>
+    <member refid="classdatamesh_1_1DataMesh_1a8b189da426dc7f07035f72ba41c86b86" kind="variable"><name>name</name></member>
+    <member refid="classdatamesh_1_1DataMesh_1a94b6bd904cc02f7f667df0ab74df901f" kind="function"><name>DataMesh</name></member>
+    <member refid="classdatamesh_1_1DataMesh_1a00d751d259645ab364f08cfe754d5c80" kind="function"><name>greet</name></member>
+  </compound>
+  <compound refid="namespacedatamesh" kind="namespace"><name>datamesh</name>
+    <member refid="namespacedatamesh_1af4863dd293cb8510f5c88115b1699560" kind="enum"><name>LanguageCode</name></member>
+    <member refid="namespacedatamesh_1af4863dd293cb8510f5c88115b1699560aaa85f1840e282d8a8304dbc2c0d7c9b2" kind="enumvalue"><name>EN</name></member>
+    <member refid="namespacedatamesh_1af4863dd293cb8510f5c88115b1699560a3a52f3c22ed6fcde5bf696a6c02c9e73" kind="enumvalue"><name>DE</name></member>
+    <member refid="namespacedatamesh_1af4863dd293cb8510f5c88115b1699560a04c19fa1e772ab66f0aad2efe61f25cd" kind="enumvalue"><name>ES</name></member>
+    <member refid="namespacedatamesh_1af4863dd293cb8510f5c88115b1699560a11aedd0e432747c2bcd97b82808d24a0" kind="enumvalue"><name>FR</name></member>
+  </compound>
+  <compound refid="about_8dox" kind="file"><name>about.dox</name>
+  </compound>
+  <compound refid="datamesh_8h" kind="file"><name>datamesh.h</name>
+  </compound>
+  <compound refid="about" kind="page"><name>about</name>
+  </compound>
+  <compound refid="dir_26055526371e8edcbe5b7ad3a58c3d6e" kind="dir"><name>datamesh</name>
+  </compound>
+  <compound refid="dir_138aff360eb965c43b94267b8d1ce09e" kind="dir"><name>documentation</name>
+  </compound>
+  <compound refid="dir_31a378c84b956866319ca9d9294f1959" kind="dir"><name>documentation/pages</name>
+  </compound>
+</doxygenindex>

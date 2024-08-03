@@ -1,0 +1,5 @@
+add_test( DataMesh /home/rik3n/Coding/data-mesh/build/test/DataMeshTests [==[--test-case=DataMesh]==])
+set_tests_properties( DataMesh PROPERTIES WORKING_DIRECTORY /home/rik3n/Coding/data-mesh/build/test LABELS)
+add_test( [==[DataMesh version]==] /home/rik3n/Coding/data-mesh/build/test/DataMeshTests [==[--test-case=DataMesh version]==])
+set_tests_properties( [==[DataMesh version]==] PROPERTIES WORKING_DIRECTORY /home/rik3n/Coding/data-mesh/build/test LABELS)
+set( DataMeshTests_TESTS DataMesh [==[DataMesh version]==])

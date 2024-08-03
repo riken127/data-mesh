@@ -1,0 +1,14 @@
+# Target labels
+ format.cmake-populate
+# Source files and their labels
+/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/CMakeFiles/format.cmake-populate
+/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/CMakeFiles/format.cmake-populate.rule
+/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/CMakeFiles/format.cmake-populate-complete.rule
+/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-build.rule
+/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-configure.rule
+/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-download.rule
+/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-install.rule
+/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-mkdir.rule
+/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-patch.rule
+/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-test.rule
+/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-update.rule

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/CMakeFiles/format.cmake-populate"
+		},
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/CMakeFiles/format.cmake-populate.rule"
+		},
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/CMakeFiles/format.cmake-populate-complete.rule"
+		},
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-build.rule"
+		},
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-configure.rule"
+		},
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-download.rule"
+		},
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-install.rule"
+		},
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-patch.rule"
+		},
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-test.rule"
+		},
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"format.cmake-populate"
+		],
+		"name" : "format.cmake-populate"
+	}
+}

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDataMesh.a CMakeFiles/DataMesh.dir/source/datamesh.cpp.o
+/usr/bin/ranlib libDataMesh.a

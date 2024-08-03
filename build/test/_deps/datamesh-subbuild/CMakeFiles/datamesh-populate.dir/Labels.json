@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/datamesh-subbuild/CMakeFiles/datamesh-populate"
+		},
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/datamesh-subbuild/CMakeFiles/datamesh-populate.rule"
+		},
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/datamesh-subbuild/CMakeFiles/datamesh-populate-complete.rule"
+		},
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/datamesh-subbuild/datamesh-populate-prefix/src/datamesh-populate-stamp/datamesh-populate-build.rule"
+		},
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/datamesh-subbuild/datamesh-populate-prefix/src/datamesh-populate-stamp/datamesh-populate-configure.rule"
+		},
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/datamesh-subbuild/datamesh-populate-prefix/src/datamesh-populate-stamp/datamesh-populate-download.rule"
+		},
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/datamesh-subbuild/datamesh-populate-prefix/src/datamesh-populate-stamp/datamesh-populate-install.rule"
+		},
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/datamesh-subbuild/datamesh-populate-prefix/src/datamesh-populate-stamp/datamesh-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/datamesh-subbuild/datamesh-populate-prefix/src/datamesh-populate-stamp/datamesh-populate-patch.rule"
+		},
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/datamesh-subbuild/datamesh-populate-prefix/src/datamesh-populate-stamp/datamesh-populate-test.rule"
+		},
+		{
+			"file" : "/home/rik3n/Coding/data-mesh/build/test/_deps/datamesh-subbuild/datamesh-populate-prefix/src/datamesh-populate-stamp/datamesh-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"datamesh-populate"
+		],
+		"name" : "datamesh-populate"
+	}
+}
