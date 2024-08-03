@@ -1,4 +1,3 @@
-Got it! Let's revise the README.md to reflect that DataMesh uses a graph-oriented approach for managing file tags and relationships rather than blockchain. Here’s an updated version:
 
 ---
 
