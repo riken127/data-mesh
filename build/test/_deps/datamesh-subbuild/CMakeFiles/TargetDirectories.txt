@@ -1,3 +1,0 @@
-/home/rik3n/Coding/data-mesh/build/test/_deps/datamesh-subbuild/CMakeFiles/datamesh-populate.dir
-/home/rik3n/Coding/data-mesh/build/test/_deps/datamesh-subbuild/CMakeFiles/edit_cache.dir
-/home/rik3n/Coding/data-mesh/build/test/_deps/datamesh-subbuild/CMakeFiles/rebuild_cache.dir

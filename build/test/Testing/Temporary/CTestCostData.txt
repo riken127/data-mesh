@@ -1,6 +1,0 @@
-DataMesh 0 0
-DataMesh 0 0
-DataMesh 0 0
-DataMesh version 1 0.00198786
----
-DataMesh

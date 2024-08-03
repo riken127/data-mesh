@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/DataMeshTests.dir/source/greeter.cpp.o CMakeFiles/DataMeshTests.dir/source/main.cpp.o -o DataMeshTests  ../_deps/datamesh-build/libDataMesh.a ../_deps/fmt-build/libfmt.a 
