@@ -4,13 +4,9 @@ Got it! Let's revise the README.md to reflect that DataMesh uses a graph-oriente
 
 # DataMesh
 
-[![Actions Status](https://github.com/YourOrg/DataMesh/workflows/Build/badge.svg)](https://github.com/riken127/data-mesh/actions)
-[![Actions Status](https://github.com/YourOrg/DataMesh/workflows/CodeQuality/badge.svg)](https://github.com/riken127/data-mesh/actions)
+[![Actions Status](https://github.com/riken127/DataMesh/workflows/Build/badge.svg)](https://github.com/riken127/data-mesh/actions)
+[![Actions Status](https://github.com/riken127/DataMesh/workflows/CodeQuality/badge.svg)](https://github.com/riken127/data-mesh/actions)
 [![codecov](https://codecov.io/gh/YourOrg/DataMesh/branch/main/graph/badge.svg)](https://codecov.io/gh/riken127/DataMesh)
-
-<p align="center">
-  <img src="https://repository-images.githubusercontent.com/123456789/abcdef-1234-5678-90ab-cdef12345678" height="175" width="auto" />
-</p>
 
 ## DataMesh
 
