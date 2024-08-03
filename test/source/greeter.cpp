@@ -16,6 +16,6 @@ TEST_CASE("DataMesh") {
 }
 
 TEST_CASE("DataMesh version") {
-  static_assert(std::string_view(DATAMESH_VERSION) == std::string_view("1.0"));
-  CHECK(std::string(DATAMESH_VERSION) == std::string("1.0"));
+  static_assert(std::string_view(DATAMESH_VERSION) == std::string_view("0.0.1"));
+  CHECK(std::string(DATAMESH_VERSION) == std::string("0.0.1"));
 }
