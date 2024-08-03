@@ -104,5 +104,3 @@ A: Please use the [GitHub Issues](https://github.com/YourOrg/DataMesh/issues) pa
 - [**ArangoDB**](https://www.arangodb.com/): A multi-model database with support for graph data models.
 
 ---
-
-Feel free to adjust the details based on any specific technologies or additional features related to your project!
